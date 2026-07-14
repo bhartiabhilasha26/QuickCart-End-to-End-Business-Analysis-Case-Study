@@ -1,51 +1,127 @@
 # QuickCart – End-to-End Business Analysis Case Study
 
-## Overview
+A consulting-style **Business Analysis case study** for a fictional SaaS-based e-commerce platform designed to demonstrate the complete Business Analysis lifecycle.
 
-QuickCart is a fictional SaaS-based e-commerce platform created to demonstrate the complete Business Analysis lifecycle for an online retail business.
-
-This project follows a consulting-style approach to identify business problems, perform root cause analysis, define business and functional requirements, and recommend data-driven solutions to improve business performance.
+This project focuses on identifying business problems, performing root cause analysis, documenting requirements, designing business solutions, and supporting data-driven decision-making to improve customer experience and operational efficiency.
 
 ---
 
-## Business Objectives
+## Project Objective
 
-- Improve customer retention
-- Reduce order cancellation rate
-- Reduce stock-out rate
-- Improve delivery performance
-- Reduce checkout abandonment
-- Increase operational visibility
-- Enable data-driven decision making
+To investigate critical business challenges faced by QuickCart, identify their root causes, define business and functional requirements, and recommend practical business solutions using industry-standard Business Analysis techniques.
 
 ---
 
-## Current Status
+## Tools & Technologies
 
-✅ Business Discovery
+- **Business Analysis**
+- **SQL**
+- **Power BI**
+- **Excel**
+- **Jira & Confluence**
+- **Figma**
+- **BPMN**
+- **Lucidchart**
+- **Markdown**
+- **Git & GitHub**
 
-🔄 Business Problem Analysis
+---
 
-⬜ Root Cause Analysis
+## Business Problems Identified
 
-⬜ Business Requirements
+The following business problems were identified during the discovery phase:
 
-⬜ Functional Requirements
+- Declining Customer Retention
+- High Stock-out Rate
+- High Order Cancellation Rate
+- Checkout Abandonment
+- Delayed Deliveries
+- Poor Visibility into Operational KPIs
+- Low Product Discovery & Conversion
 
-⬜ BRD
+---
 
-⬜ FRD
+## Discovery Approach
 
-⬜ User Stories
+The project follows a structured Business Analysis approach:
 
-⬜ Process Modelling
+- Business Context Analysis
+- Stakeholder Identification
+- Business Problem Identification
+- Hypothesis Generation
+- Root Cause Analysis
+- Requirements Gathering
+- Solution Recommendation
+- Documentation
+- Dashboard Design
+- User Acceptance Testing (UAT)
 
-⬜ Wireframes
+---
 
-⬜ API Documentation
+## Project Deliverables
 
-⬜ SQL Analysis
+This repository will gradually include:
 
-⬜ Dashboard Design
+- Business Context
+- Stakeholder Analysis
+- Business Problem Analysis
+- Root Cause Analysis
+- Business Requirements
+- Functional Requirements
+- BRD (Business Requirement Document)
+- FRD (Functional Requirement Document)
+- User Stories & Acceptance Criteria
+- BPMN & Process Flow Diagrams
+- Wireframes
+- API Requirement Analysis
+- SQL Analysis
+- Power BI Dashboard
+- UAT Documentation
 
-⬜ UAT
+---
+
+## Current Progress
+
+- ✅ Business Context
+- ✅ Stakeholder Analysis
+- ✅ Business Problem Identification
+- 🔄 Customer Retention Analysis (In Progress)
+- ⬜ Root Cause Analysis
+- ⬜ BRD
+- ⬜ FRD
+- ⬜ User Stories
+- ⬜ BPMN Diagrams
+- ⬜ Wireframes
+- ⬜ SQL Analysis
+- ⬜ Dashboard
+- ⬜ UAT
+
+---
+
+## Skills Demonstrated
+
+- Business Analysis
+- Requirement Gathering
+- Stakeholder Management
+- Problem Solving
+- Root Cause Analysis
+- Business Documentation
+- Process Improvement
+- Data Analysis
+- KPI Definition
+- SQL
+- Dashboard Planning
+- Critical Thinking
+
+---
+
+## Future Scope
+
+- Design low and high-fidelity wireframes
+- Develop interactive Power BI dashboards
+- Perform SQL-based business analysis
+- Document API requirements
+- Conduct UAT and defect tracking
+- Recommend future product enhancements
+
+---
