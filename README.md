@@ -125,3 +125,19 @@ This repository will gradually include:
 - Recommend future product enhancements
 
 ---
+
+## 🔍 Root Cause Analysis
+
+Customer retention decline was analyzed by categorizing potential causes into seven key areas:
+
+1. Delivery Experience
+2. Product Availability
+3. Pricing & Transparency
+4. User Experience
+5. Customer Support
+6. Customer Engagement
+7. Market Competition
+
+Each category was further validated using operational KPIs, customer feedback, and stakeholder discussions before proposing business recommendations.
+
+---
