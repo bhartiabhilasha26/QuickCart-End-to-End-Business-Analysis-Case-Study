@@ -10,6 +10,191 @@ The case study simulates the work of a Business Analyst collaborating with stake
 
 ---
 
+#  Project Flow
+
+This repository follows the same approach a Business Analyst would follow during a real project.
+
+```text
+Business Discovery
+        ↓
+Business Analysis
+        ↓
+Requirements Engineering
+        ↓
+Solution Design
+        ↓
+Technical Validation
+        ↓
+Testing
+        ↓
+Business Recommendations & Roadmap
+```
+
+Each phase builds upon the previous one, simulating an end-to-end Business Analysis engagement.
+
+---
+
+# Project Progress
+
+| Phase |
+|--------|
+| 🟡 Business Discovery *(In Progress)* |
+| 🟡 Business Analysis *(In Progress)* |
+| ⚪ Requirements Engineering |
+| ⚪ Solution Design |
+| ⚪ Technical Validation |
+| ⚪ Testing |
+| ⚪ Business Recommendations & Roadmap |
+
+---
+
+#  Repository Structure
+
+```text
+📦 QuickCart
+│
+├── 📁 01_Business_Discovery
+│      ├── 📄 Business_Context.md
+│      ├── 📄 Business_Objectives.md
+│      ├── 📄 Stakeholder_Analysis.md
+│      ├── 📄 Business_Problems.md
+│      ├── 📄 Business_Capability_Map.md
+│      ├── 📄 Current_State_(As-Is)_Process.md
+│      └── 📄 Success_Criteria.md
+│
+├── 📁 02_Business_Analysis
+│      ├── 📄 Problem_Validation.md
+│      ├── 📄 KPI_Framework.md
+│      ├── 📄 Root_Cause_Analysis.md
+│      ├── 📄 Gap_Analysis.md
+│      ├── 📄 Business_Impact_Analysis.md
+│      └── 📄 Prioritization_(MoSCoW).md
+│
+├── 📁 03_Requirements_Engineering
+│      ├── 📄 Business_Requirements_Document_(BRD).md
+│      ├── 📄 Functional_Requirements_Document_(FRD).md
+│      ├── 📄 User_Stories.md
+│      ├── 📄 Acceptance_Criteria.md
+│      ├── 📄 Use_Cases.md
+│      └── 📄 Requirement_Traceability_Matrix_(RTM).md
+│
+├── 📁 04_Solution_Design
+│      ├── 📄 BPMN_Diagrams.md
+│      ├── 📄 User_Flow.md
+│      ├── 📄 Wireframes.md
+│      ├── 📄 API_Requirements.md
+│      └── 📄 Solution_Architecture.md
+│
+├── 📁 05_Technical_Validation
+│      ├── 📄 Database_Design.md
+│      ├── 📄 ER_Diagram.md
+│      ├── 📄 SQL_Analysis.md
+│      ├── 📄 Dashboard_Design.md
+│      └── 📄 KPI_Validation.md
+│
+├── 📁 06_Testing
+│      ├── 📄 User_Acceptance_Testing_(UAT).md
+│      ├── 📄 Test_Cases.md
+│      ├── 📄 Defect_Log.md
+│      └── 📄 Requirement_Traceability_Matrix_(RTM).md
+│
+├── 📁 07_Business_Recommendations_&_Roadmap
+│      ├── 📄 Business_Recommendations.md
+│      ├── 📄 Implementation_Roadmap.md
+│      ├── 📄 Expected_Business_Impact.md
+│      └── 📄 Lessons_Learned.md
+│
+├── 📁 Assets
+│      ├── Images
+│      ├── Wireframes
+│      ├── Dashboard
+│      ├── BPMN_Diagrams
+│      └── Screenshots
+│
+└── 📄 README.md
+```
+
+---
+
+#  Business Analysis Journey
+
+```text
+Business Context
+        ↓
+Business Objectives
+        ↓
+Stakeholder Analysis
+        ↓
+Business Problems
+        ↓
+Problem Validation
+        ↓
+Root Cause Analysis
+        ↓
+Business Impact Analysis
+        ↓
+Business Capability Mapping
+        ↓
+Requirements Gathering
+        ↓
+Business Requirements Document (BRD)
+        ↓
+Functional Requirements Document (FRD)
+        ↓
+User Stories
+        ↓
+Acceptance Criteria
+        ↓
+BPMN
+        ↓
+User Flow
+        ↓
+Wireframes
+        ↓
+API Requirements
+        ↓
+Database Design
+        ↓
+SQL Analysis
+        ↓
+Power BI Dashboard
+        ↓
+User Acceptance Testing (UAT)
+        ↓
+Business Recommendations
+        ↓
+Implementation Roadmap
+```
+
+---
+
+#  Skills Demonstrated
+
+- Business Analysis
+- Requirement Gathering
+- Stakeholder Management
+- Business Process Analysis
+- Root Cause Analysis
+- Gap Analysis
+- Business Impact Analysis
+- KPI Definition
+- Business Documentation (BRD & FRD)
+- User Stories
+- Acceptance Criteria
+- BPMN
+- User Flow Design
+- Wireframing (Figma)
+- API Analysis
+- SQL
+- Database Design
+- Power BI
+- Dashboard Design
+- User Acceptance Testing (UAT)
+- Requirement Traceability Matrix (RTM)
+- Business Strategy & Problem Solving
+
+---
+
 # Business Scenario
 
 As QuickCart expanded across multiple cities and product categories, it began facing several operational and customer experience challenges. Increasing order cancellations, delayed deliveries, inventory stock-outs, checkout abandonment, and declining customer retention impacted both revenue and customer satisfaction.
@@ -140,7 +325,7 @@ This repository will gradually include:
 
 ---
 
-## 🔍 Root Cause Analysis
+##  Root Cause Analysis
 
 Customer retention decline was analyzed by categorizing potential causes into seven key areas:
 
@@ -156,7 +341,7 @@ Each category was further validated using operational KPIs, customer feedback, a
 
 ---
 
-# 📊 Business Impact Analysis
+#  Business Impact Analysis
 
 Business Impact Analysis (BIA) was conducted to assess how each identified business problem affects QuickCart's strategic objectives, operational efficiency, customer experience, and financial performance. This analysis helps prioritize business initiatives based on their impact and urgency.
 
