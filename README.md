@@ -1,8 +1,22 @@
 # QuickCart – End-to-End Business Analysis Case Study
 
-A consulting-style **Business Analysis case study** for a fictional SaaS-based e-commerce platform designed to demonstrate the complete Business Analysis lifecycle.
+## Overview
 
-This project focuses on identifying business problems, performing root cause analysis, documenting requirements, designing business solutions, and supporting data-driven decision-making to improve customer experience and operational efficiency.
+QuickCart is a fictional e-commerce platform created to demonstrate the complete Business Analysis lifecycle for a SaaS-based online retail business.
+
+Rather than focusing only on dashboards or documentation, this project follows a structured consulting approach—from understanding business problems to proposing data-driven solutions and translating them into functional requirements.
+
+The case study simulates the work of a Business Analyst collaborating with stakeholders to improve customer experience, operational efficiency, and business performance.
+
+---
+
+# Business Scenario
+
+As QuickCart expanded across multiple cities and product categories, it began facing several operational and customer experience challenges. Increasing order cancellations, delayed deliveries, inventory stock-outs, checkout abandonment, and declining customer retention impacted both revenue and customer satisfaction.
+
+Although operational data was available across different systems, decision-makers lacked a centralized view of business performance, making it difficult to identify root causes and implement effective improvements.
+
+This project investigates those challenges through structured business analysis and recommends practical, scalable solutions.
 
 ---
 
@@ -139,5 +153,73 @@ Customer retention decline was analyzed by categorizing potential causes into se
 7. Market Competition
 
 Each category was further validated using operational KPIs, customer feedback, and stakeholder discussions before proposing business recommendations.
+
+---
+
+# 📊 Business Impact Analysis
+
+Business Impact Analysis (BIA) was conducted to assess how each identified business problem affects QuickCart's strategic objectives, operational efficiency, customer experience, and financial performance. This analysis helps prioritize business initiatives based on their impact and urgency.
+
+---
+
+## Business Impact Summary
+
+| Business Problem | Business Impact | Key KPIs Affected | Priority |
+|------------------|-----------------|-------------------|----------|
+| Declining Customer Retention | Reduced repeat purchases, lower Customer Lifetime Value (CLV), increased customer churn, and declining long-term revenue. | Customer Retention Rate, Customer Churn Rate, Repeat Purchase Rate, CLV | 🔴 High |
+| High Stock-out Rate | Lost sales opportunities, poor customer experience, lower trust, and revenue leakage due to unavailable products. | Stock-out Rate, Revenue Loss, Product Availability, Order Fulfillment Rate | 🔴 High |
+| High Order Cancellation Rate | Revenue loss, operational inefficiencies, increased customer dissatisfaction, and reduced customer confidence. | Order Cancellation Rate, Order Success Rate, Customer Satisfaction (CSAT) | 🔴 High |
+| Checkout & Payment Drop-offs | Reduced order conversion, abandoned carts, and loss of potential revenue due to friction during checkout. | Checkout Conversion Rate, Payment Success Rate, Cart Abandonment Rate | 🔴 High |
+| Delayed Deliveries | Negative customer experience, increased complaints, lower retention, and poor brand perception. | Average Delivery Time, SLA Compliance, On-Time Delivery %, CSAT | 🔴 High |
+| Poor Visibility into Operational KPIs | Delayed business decisions, reactive issue resolution, and inefficient operational planning. | Dashboard Adoption, Decision-Making Time, Operational KPIs | 🟠 Medium |
+| Complex User Interface | Reduced user engagement, higher bounce rates, increased checkout abandonment, and lower conversions. | Bounce Rate, Session Duration, Conversion Rate | 🟠 Medium |
+| Product Search & Recommendation Issues | Lower product discovery, reduced cross-selling opportunities, and lower Average Order Value (AOV). | Product Click-Through Rate, Search Success Rate, AOV | 🟠 Medium |
+| Low Repeat Purchase Rate | Reduced customer loyalty, lower recurring revenue, and decreased Customer Lifetime Value. | Repeat Purchase Rate, Purchase Frequency, CLV | 🔴 High |
+
+---
+
+## Strategic Business Impact
+
+If these business problems remain unresolved, QuickCart may experience:
+
+- Declining customer loyalty and increasing customer churn.
+- Reduced revenue due to lost sales, order cancellations, and lower repeat purchases.
+- Increased operational costs resulting from inefficient inventory management and delivery operations.
+- Lower customer satisfaction leading to poor brand perception and negative reviews.
+- Reduced competitiveness within the quick-commerce market due to better-performing competitors.
+- Slower business decision-making caused by limited operational visibility and fragmented reporting.
+- Decreased long-term business growth and profitability.
+
+---
+
+## Business Prioritization
+
+Based on business impact, the identified problems have been prioritised using the MoSCoW framework.
+
+### Must Have
+
+- Improve Customer Retention
+- Reduce Order Cancellations
+- Reduce Stock-outs
+- Improve Delivery Performance
+- Improve Checkout Experience
+
+### Should Have
+
+- Improve Product Search & Recommendation
+- Improve Operational Dashboards
+- Enhance Customer Loyalty Program
+
+### Could Have
+
+- Personalised Product Recommendations
+- Gamification & Reward System
+- Advanced Customer Segmentation
+
+### Won't Have (Current Phase)
+
+- AI-powered Dynamic Pricing
+- Voice Commerce
+- Predictive Shopping Assistant
 
 ---
