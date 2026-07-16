@@ -338,7 +338,72 @@ The success of this project will be measured through improvements in the followi
 
 ## Current State (As-Is) Process
 
-Not Started
+# As-Is Process
+
+## Overview
+
+The As-Is Process represents the current end-to-end business workflow followed by QuickCart, from the moment a customer opens the application until the order is successfully delivered.
+
+Mapping the existing process helps identify operational bottlenecks, customer pain points, stakeholder responsibilities, supporting systems, and the KPIs required to measure process performance.
+
+---
+
+## Current Customer Journey
+
+```text
+Customer decides to purchase groceries
+        ↓
+Open QuickCart App
+        ↓
+Browse / Search Products
+        ↓
+View Product Details
+        ↓
+Add Product(s) to Cart
+        ↓
+Proceed to Checkout
+        ↓
+Select Delivery Address
+        ↓
+Choose Payment Method
+        ↓
+Complete Payment
+        ↓
+Receive Order Confirmation
+        ↓
+Order Processing Begins
+        ↓
+Inventory Check
+        ↓
+Product Picking
+        ↓
+Product Packing
+        ↓
+Assign Delivery Partner
+        ↓
+Order Dispatched
+        ↓
+Track Order
+        ↓
+Order Delivered
+        ↓
+Customer Rates Order / Raises Complaint
+```
+
+---
+
+## Objectives of Process Mapping
+
+- Understand the existing business workflow
+- Identify operational bottlenecks
+- Map stakeholder responsibilities
+- Identify process-level pain points
+- Establish KPIs for process monitoring
+- Build the foundation for future-state process design
+
+---
+
+> **Status:** Content Completed. BPMN, Swimlane Diagram, and Process Flow Diagram will be added in the Solution Design phase.
 
 ---
 
