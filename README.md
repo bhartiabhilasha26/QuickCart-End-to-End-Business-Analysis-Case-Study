@@ -1077,3 +1077,75 @@ The business lacks effective customer retention capabilities and engagement stra
 - Implementation Roadmap
 - Expected Business Impact
 - Lessons Learned
+
+---
+
+# Fishbone (Ishikawa) Analysis
+
+## Business Problem
+
+**Declining Customer Retention**
+
+The following Fishbone Analysis identifies the major root causes contributing to the decline in customer retention.
+
+```
+                                      Declining Customer Retention
+                                                    │
+────────────────────────────────────────────────────┼────────────────────────────────────────────────────
+
+People
+│
+├── Insufficient Delivery Partners
+├── Poor Delivery Partner Allocation
+└── Insufficient Customer Support Staff
+
+
+Process
+│
+├── Poor Demand Forecasting
+├── Inefficient Inventory Planning
+├── Multiple Checkout Steps
+├── Poor Route Planning
+├── Slow Complaint Resolution
+├── Weak Cross-selling Strategy
+└── Poor Product Discovery
+
+
+Technology
+│
+├── No Real-time Inventory Visibility
+├── Payment Gateway Issues
+├── Outdated Recommendation Engine
+├── Poor Navigation
+├── No Ticket Management System
+└── Lack of Dynamic Route Optimization
+
+
+Data
+│
+├── Poor Customer Behaviour Analysis
+├── Inaccurate Inventory Records
+├── Incorrect Delivery Time Estimation
+└── Lack of Operational KPI Visibility
+
+
+External
+│
+├── Traffic Conditions
+├── Supplier Delays
+├── High Evening Demand
+└── Weather Conditions
+```
+
+## Key Findings
+
+The analysis identified the following root causes as the highest business priorities:
+
+- Poor Demand Forecasting
+- Delivery Partner Allocation Issues
+- No Real-time Inventory Visibility
+- Multiple Checkout Steps
+- Poor Navigation
+- Weak Product Discovery
+
+These causes have the highest combination of business impact and frequency and should be prioritized during the requirements engineering phase.
