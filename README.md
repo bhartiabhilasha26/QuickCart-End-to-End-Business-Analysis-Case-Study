@@ -1248,3 +1248,21 @@ This distinction ensures that multiple implementation approaches remain possible
 ---
 
 **Next Deliverable:** Functional Requirements Document (FRD)
+
+# Business Capability Mapping
+
+The following table maps business problems to the business capabilities identified during the Business Analysis process.
+
+| Business Problem | Business Capability |
+|------------------|--------------------|
+| High Stock-outs | Inventory Planning & Real-time Inventory Visibility |
+| High Order Cancellation | Accurate Product Information & Reliable Payment Processing |
+| Checkout Drop-offs | Simplified Checkout Experience & Transparent Pricing |
+| Delivery Delays | Efficient Delivery Partner & Fulfillment Management |
+| Lack of KPI Visibility | Centralized Operational Performance Monitoring |
+| Complex User Interface | Intuitive User Experience & Continuous UX Improvement |
+| Poor Product Recommendation Engine | Personalized Product Recommendation Capability |
+
+---
+
+These capabilities form the foundation for the Functional Requirements phase.
