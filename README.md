@@ -1266,3 +1266,25 @@ The following table maps business problems to the business capabilities identifi
 ---
 
 These capabilities form the foundation for the Functional Requirements phase.
+
+# Requirement Prioritization
+
+Business Requirements were prioritized using Business Impact, Customer Impact and Operational Risk.
+
+## Priority Levels
+
+### Critical
+
+Requirements that directly impact customer retention, revenue generation or order fulfillment.
+
+### High
+
+Requirements that improve operational efficiency and customer experience.
+
+### Medium
+
+Requirements that support long-term optimization and continuous improvement.
+
+---
+
+This prioritization will guide the implementation sequence during the Functional Requirements phase.
