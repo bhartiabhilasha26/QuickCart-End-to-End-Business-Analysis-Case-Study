@@ -1149,3 +1149,39 @@ The analysis identified the following root causes as the highest business priori
 - Weak Product Discovery
 
 These causes have the highest combination of business impact and frequency and should be prioritized during the requirements engineering phase.
+
+# Business Requirements Catalogue ✅
+
+The Business Requirements Catalogue has been completed after conducting:
+
+- Business Problem Analysis
+- Current State vs Future State Analysis
+- Gap Analysis
+- Customer Journey Mapping
+- As-Is Process Mapping
+- Decision Point Analysis
+- Root Cause Analysis (Fishbone + 5 Whys)
+- Root Cause Prioritization
+- Business Capability Identification
+
+## Business Requirements Summary
+
+| Business Problem | Status |
+|------------------|--------|
+| High Stock-out Rate | ✅ Completed |
+| High Order Cancellation Rate | ✅ Completed |
+| High Checkout Drop-off | ✅ Completed |
+| Delivery Delays | ✅ Completed |
+| Lack of Operational KPI Visibility | ✅ Completed |
+| Complex User Interface | ✅ Completed |
+| Poor Product Recommendation Engine | ✅ Completed |
+
+### Key Learning
+
+One of the biggest learnings during this phase was understanding that Business Requirements should define **business capabilities**, not technical solutions.
+
+Another key takeaway was identifying duplicate capabilities across multiple business problems and consolidating them into a clean, traceable Business Requirements Catalogue instead of creating redundant requirements.
+
+**Current Status:** Business Requirements Catalogue Completed ✅
+
+**Next Phase:** Functional Requirements (FRD)
