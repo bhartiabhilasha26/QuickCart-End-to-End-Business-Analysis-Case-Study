@@ -1185,3 +1185,66 @@ Another key takeaway was identifying duplicate capabilities across multiple busi
 **Current Status:** Business Requirements Catalogue Completed ✅
 
 **Next Phase:** Functional Requirements (FRD)
+
+# Business Requirements Catalogue
+
+## Overview
+
+This document captures the business capabilities identified during the Business Analysis phase of the QuickCart case study.
+
+The Business Requirements were derived after completing:
+
+- Business Problem Analysis
+- Current State vs Future State Analysis
+- Gap Analysis
+- Customer Journey Mapping
+- Root Cause Analysis
+- Fishbone Analysis
+- Root Cause Prioritization
+
+Instead of documenting technical solutions, each requirement focuses on the business capability required to solve the identified business problem.
+
+---
+
+## Business Problems Covered
+
+- BP-02 High Stock-out Rate
+- BP-03 High Order Cancellation Rate
+- BP-04 High Checkout Drop-off Rate
+- BP-05 Delivery Delays
+- BP-06 Lack of Operational KPI Visibility
+- BP-07 Complex User Interface
+- BP-08 Poor Product Recommendation Engine
+
+---
+
+## Key Learning
+
+One of the biggest learnings during this phase was understanding the distinction between **Business Capabilities** and **Solutions**.
+
+A Business Requirement should define the capability the business needs to achieve its objective rather than prescribing how that capability should be implemented.
+
+For example:
+
+❌ Implement a real-time inventory dashboard.
+
+✅ The business requires the ability to monitor inventory levels in real time.
+
+This distinction ensures that multiple implementation approaches remain possible while keeping the business need consistent.
+
+---
+
+## Current Project Status
+
+| Phase | Status |
+|--------|--------|
+| Business Discovery | ✅ Completed |
+| Problem Analysis | ✅ Completed |
+| Gap Analysis | ✅ Completed |
+| Root Cause Analysis | ✅ Completed |
+| Business Requirements | ✅ Completed |
+| Functional Requirements | 🔄 Next Phase |
+
+---
+
+**Next Deliverable:** Functional Requirements Document (FRD)
