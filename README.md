@@ -1287,4 +1287,3 @@ Requirements that support long-term optimization and continuous improvement.
 
 ---
 
-This prioritization will guide the implementation sequence during the Functional Requirements phase.
